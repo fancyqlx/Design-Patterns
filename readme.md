@@ -1,7 +1,10 @@
-# Design Pattern
+# Design Patterns
 
-[Strategy Pattern](https://github.com/fancyqlx/Design-Patterns/tree/master/src/main/java/fancyqlx/Strategy)
+This repository provides code examples of some important design patterns.
+You can find detailed descriptions and codes of each pattern by the following links. 
 
-[Observer Pattern](./src/main/java/fancyqlx/Observer/)
+#### [Strategy Pattern](https://github.com/fancyqlx/Design-Patterns/tree/master/src/main/java/fancyqlx/Strategy)
 
-[Decorator Pattern](./src/main/java/fancyqlx/Decorator/)
+#### [Observer Pattern](./src/main/java/fancyqlx/Observer/)
+
+#### [Decorator Pattern](./src/main/java/fancyqlx/Decorator/)
