@@ -10,3 +10,5 @@ You can find detailed descriptions and codes of each pattern by the following li
 [Decorator Pattern](./src/main/java/fancyqlx/Decorator/)
 
 [Factory Pattern](./src/main/java/fancyqlx/Factory/)
+
+[Singleton Pattern](./src/main/java/fancyqlx/Singleton/)
