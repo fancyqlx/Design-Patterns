@@ -1,7 +1,7 @@
 package fancyqlx.Singleton;
 
 public class Singleton {
-    private static Singleton uniqueInstance;
+    private static volatile Singleton uniqueInstance;
 
     private Singleton(){
         System.out.println("I am Singleton");
