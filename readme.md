@@ -14,3 +14,15 @@ You can find detailed descriptions and codes of each pattern by the following li
 [Singleton Pattern](./src/main/java/fancyqlx/Singleton/)
 
 [Command Pattern](./src/main/java/fancyqlx/Command/)
+
+[Adapter Pattern](./src/main/java/fancyqlx/Adapter/)
+
+[Facade Pattern](./src/main/java/fancyqlx/Facade/)
+
+[Template Pattern](./src/main/java/fancyqlx/Template/)
+
+[Iterator Pattern](./src/main/java/fancyqlx/Iterator/)
+
+[State Pattern](./src/main/java/fancyqlx/State/)
+
+[Compound Pattern](./src/main/java/fancyqlx/Compound/)
